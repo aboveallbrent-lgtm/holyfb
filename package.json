@@ -1,0 +1,10 @@
+{
+  "name": "gclock",
+  "version": "1.0.0",
+  "main": "gclock.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fca-mafiya": "latest",
+    "ws": "^8.18.0"
+  }
+}
